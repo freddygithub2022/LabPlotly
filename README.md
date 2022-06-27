@@ -27,3 +27,6 @@ fig <- fig %>% layout(title ='Computing Consumption', xaxis = list(title = 'Day 
 fig
 ```
 
+# View html result
+
+https://rawcdn.githack.com/freddygithub2022/LabPlotly/7f9c40552b684fc8a334e7aa23d58a6f690988aa/MyLabPlotly.html
